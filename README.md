@@ -1,4 +1,4 @@
-<h1 style="font-family: Arial, sans-serif; text-align: center; background: linear-gradient(141.27deg, #ff904e -4.24%, #ff5982 21.25%, #ec68f4 44.33%, #79e2ff 83.46%); -webkit-background-clip: text; color: transparent;">
+<h1 align="center" style="font-family: Arial, sans-serif; text-align: center; background: linear-gradient(141.27deg, #ff904e -4.24%, #ff5982 21.25%, #ec68f4 44.33%, #79e2ff 83.46%); -webkit-background-clip: text; color: transparent;">
   <a href="https://github.com/kubilaydogan" style="text-decoration: none; color: inherit;">
     Kubilay Dogan
   </a>
@@ -28,7 +28,7 @@
 
 <br/>
 
-<h3 style="text-align: center;">👨‍💻 Languages</h3>
+<h3 align="center style="text-align: center;">👨‍💻 Languages</h3>
 <p align="center">
   <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -37,7 +37,7 @@
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 </p>
 
-<h3 style="text-align: center;">🧰 Frameworks & Testing</h3>
+<h3 align="center style="text-align: center;">🧰 Frameworks & Testing</h3>
 <p align="center">
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="Nightwatch.js" src="https://img.shields.io/badge/Nightwatch.js-000000.svg?logo=nightwatch.js&logoColor=white"></a>
@@ -52,14 +52,14 @@
   
 </p>
 
-<h3 style="text-align: center;">🔧 Tools</h3>
+<h3 align="center style="text-align: center;">🔧 Tools</h3>
 <p align="center">
   <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
 
-<h3 style="text-align: center;">🗄️ Databases</h3>
+<h3 align="center style="text-align: center;">🗄️ Databases</h3>
 <p align="center">
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
