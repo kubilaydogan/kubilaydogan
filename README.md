@@ -21,6 +21,12 @@
 
 <br/>
 
+## About Me
+
+Hello! I’m Kubilay Dogan, a dedicated test automation enthusiast with a passion for crafting innovative solutions and continually expanding my skill set. I thrive on implementing best practices to enhance the quality of my work. With extensive experience in end-to-end and smoke test frameworks across both UI and API layers, I’ve honed my ability to troubleshoot and resolve failures within regression teams. Let’s connect and build something great together!
+
+<br/>
+
 <p align="center">
     <a href="https://github.com/kubilaydogan?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kubilaydogan?color=55960c&style=for-the-badge&labelColor=488207&logo=star">
